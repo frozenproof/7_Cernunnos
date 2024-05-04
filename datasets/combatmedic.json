@@ -1,0 +1,126 @@
+{"intents": 
+    [
+        {
+            "tag": "identify_emergency",
+            "patterns": [
+                "how do I identify a medical emergency?",
+                "tell me about signs of a medical emergency",
+                "what are common symptoms of a health crisis?"
+            ],
+            "responses": [
+                "Medical emergencies often involve sudden and severe symptoms that require immediate attention. Common signs include chest pain, difficulty breathing, loss of consciousness, severe bleeding, sudden weakness or numbness, and signs of stroke or heart attack."
+            ]
+        },
+        {
+            "tag": "first_aid_basics",
+            "patterns": [
+                "what should I do in a medical emergency?",
+                "can you provide first aid tips?",
+                "tell me about basic life-saving techniques"
+            ],
+            "responses": [
+                "In a medical emergency, it's crucial to stay calm and take quick action. Basic first aid techniques include assessing the situation, calling for help, performing CPR if needed, applying pressure to stop bleeding, stabilizing injuries, and providing comfort and reassurance to the affected person until professional medical help arrives."
+            ]
+        },
+        {
+            "tag": "call_for_help",
+            "patterns": [
+                "when should I call emergency services?",
+                "tell me when to seek immediate medical assistance",
+                "what are red flags that indicate the need for urgent help?"
+            ],
+            "responses": [
+                "You should call emergency services immediately if you or someone else is experiencing symptoms of a medical emergency, such as difficulty breathing, chest pain, loss of consciousness, severe bleeding, or signs of stroke or heart attack. It's always better to err on the side of caution and seek help promptly."
+            ]
+        },
+        {
+            "tag": "heart_attack",
+            "patterns": [
+                "what are the symptoms of a heart attack?",
+                "tell me about signs of a heart attack",
+                "how do I recognize a heart attack?"
+            ],
+            "responses": [
+                "The symptoms of a heart attack can vary, but common signs include chest pain or discomfort that may feel like pressure, squeezing, fullness, or pain that spreads to the arm, neck, jaw, or back. Other symptoms may include shortness of breath, nausea, lightheadedness, and cold sweats. It's important to seek medical help immediately if you suspect you or someone else is having a heart attack."
+            ]
+        },
+        {
+            "tag": "cpr_instructions",
+            "patterns": [
+                "how do I perform CPR?",
+                "tell me about CPR",
+                "can you provide CPR instructions?"
+            ],
+            "responses": [
+                "To perform CPR, follow these steps:\n1. Check for responsiveness: Shake the person and shout, 'Are you okay?'\n2. Call for help: If the person is unresponsive, call emergency services or ask someone else to do so.\n3. Open the airway: Tilt the person's head back and lift the chin to open the airway.\n4. Check for breathing: Look, listen, and feel for signs of breathing for about 10 seconds.\n5. Start chest compressions: Place the heel of one hand on the center of the person's chest, and place the other hand on top. Interlock your fingers and position yourself directly over the person's chest. Perform chest compressions at a rate of 100 to 120 compressions per minute, pushing down about 2 inches deep with each compression.\n6. Give rescue breaths: Pinch the person's nose shut and cover their mouth with yours. Give two rescue breaths, each lasting about one second, while watching for the person's chest to rise. Continue cycles of 30 chest compressions followed by two rescue breaths until help arrives or the person starts breathing on their own."
+            ]
+        },
+        {
+            "tag": "choking_victim",
+            "patterns": [
+                "how do I save a choking victim?",
+                "tell me about choking first aid",
+                "can you provide instructions for helping a choking person?"
+            ],
+            "responses": [
+                "To help a choking victim, follow these steps:\n1. Assess the situation: Determine if the person is unable to speak, cough, or breathe, and if they are clutching their throat.\n2. Encourage coughing: If the person is coughing forcefully, encourage them to continue coughing to try to dislodge the obstruction.\n3. Perform abdominal thrusts: Stand behind the person and wrap your arms around their waist. Make a fist with one hand and place it slightly above the person's navel. Grasp the fist with your other hand and press into the abdomen with a quick upward thrust. Repeat abdominal thrusts until the object is dislodged or the person becomes unconscious.\n4. Call for help: If the person becomes unconscious, call emergency services and begin CPR.\n5. Continue to monitor the person's airway and breathing until help arrives."
+            ]
+        },
+        {
+            "tag": "combat_medic",
+            "patterns": [
+                "tell me about combat medics",
+                "can you share information about battlefield medics?",
+                "i'd like to learn about the role of combat medics"
+            ],
+            "responses": [
+                "Combat medics are highly trained medical professionals who provide emergency medical treatment in combat zones. They are responsible for treating wounded soldiers on the battlefield, often under dangerous and challenging conditions. Their duties may include stabilizing injured individuals, administering first aid, and evacuating casualties to medical facilities for further treatment. Combat medics play a crucial role in saving lives and ensuring the health and well-being of military personnel in combat situations."
+            ]
+        },
+        {
+            "tag": "combat_medic_duties",
+            "patterns": [
+                "what are the duties of combat medics?",
+                "can you tell me about the responsibilities of battlefield medics?",
+                "i'd like to learn more about what combat medics do"
+            ],
+            "responses": [
+                "Combat medics perform a variety of critical duties on the battlefield, including:\n1. Providing emergency medical treatment to wounded soldiers.\n2. Administering first aid and stabilizing injured individuals.\n3. Assessing and prioritizing casualties based on the severity of their injuries.\n4. Performing lifesaving interventions, such as controlling bleeding and managing airways.\n5. Evacuating casualties to medical facilities for further treatment.\n6. Maintaining medical supplies and equipment.\n7. Collaborating with other medical personnel and military units to ensure coordinated care.\nThese duties require combat medics to work quickly and efficiently under extreme pressure, often in dangerous and challenging environments, to save lives and support the health and well-being of military personnel."
+            ]
+        },
+        {
+            "tag": "open_wounds_treatment",
+            "patterns": [
+                "how do I treat an open wound?",
+                "han you give me instructions for treating a wound?",
+                "i'd like to learn about wound care"
+            ],
+            "responses": [
+                "To treat an open wound:\n1. Cleanse the wound with mild soap and water.\n2. Apply pressure to stop bleeding, if necessary.\n3. Apply an antiseptic ointment to prevent infection.\n4. Cover the wound with a sterile bandage or gauze.\n5. Change the bandage regularly and monitor for signs of infection.\n6. Seek medical attention if the wound is deep, won't stop bleeding, or shows signs of infection.\nRemember to wash your hands before and after treating the wound to prevent contamination."
+            ]
+        },
+        {
+            "tag": "combat_medic_equipment",
+            "patterns": [
+                "what equipment do combat medics use?",
+                "can you list some examples of combat medic gear?",
+                "i'd like to learn about the equipment used by battlefield medics"
+            ],
+            "responses": [
+                "Combat medics use a variety of specialized equipment to provide medical care in combat zones, including:\n1. First aid kits: Containing bandages, antiseptics, and other essential supplies for treating injuries.\n2. Tourniquets: Used to stop severe bleeding from extremity wounds.\n3. Hemostatic agents: Substances applied to wounds to promote blood clotting.\n4. Airway management tools: Such as nasopharyngeal airways and endotracheal tubes for maintaining clear airways.\n5. Intravenous (IV) supplies: Including catheters, fluids, and administration sets for administering fluids and medications.\n6. Splints: Devices used to immobilize fractured or injured limbs.\n7. Stretchers and evacuation equipment: For transporting injured individuals to medical facilities.\nThese are just a few examples of the equipment combat medics may use to provide life-saving care on the battlefield."
+            ]
+        },
+        {
+            "tag": "save_fainted",
+            "patterns": [
+                "how to save a fainted person?",
+                "what to do if someone faints?",
+                "I'd like to learn how to help someone who has fainted"
+            ],
+            "responses": [
+                "If someone faints, follow these steps:\n1. Lay the person on their back and elevate their legs.\n2. Loosen tight clothing and ensure proper ventilation.\n3. Check for responsiveness and breathing.\n4. If unconscious and not breathing normally, call emergency services and begin CPR.\n5. Stay with the person until medical help arrives.\n6. Once conscious, offer water and reassurance.\nIt's important to monitor the person's condition and seek medical attention if necessary."
+            ]
+        }
+   
+    ]
+}

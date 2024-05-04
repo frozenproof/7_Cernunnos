@@ -1,0 +1,15 @@
+{"intents": 
+    [
+        {
+            "tag": "world_records",
+            "patterns": [
+                "tell me about world records",
+                "can you share some record-breaking achievements?",
+                "i'd like to hear about extraordinary feats"
+            ],
+            "responses": [
+                "Here are some incredible world records:\n1. Longest fingernails on a pair of hands: 29 feet, 10.1 inches (Chris 'The Duchess' Walton).\n2. Longest time without sleep: 11 days, 25 minutes (Randy Gardner).\n3. Fastest time to solve a Rubik's Cube: 3.47 seconds (Yusheng Du).\n4. Largest collection of rubber ducks: over 8,000 (Charlotte Lee).\n5. Longest time spent balancing on one foot: 76 hours, 40 minutes (Arulanantham Suresh Joachim).\nThese remarkable achievements showcase human ingenuity, determination, and dedication."
+            ]
+        }
+    ]
+}

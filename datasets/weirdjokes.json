@@ -1,0 +1,19 @@
+{"intents": 
+    [
+        {
+            "tag": "tongue_twister",
+            "patterns": [
+                "tell me a tongue twister",
+                "tan you share a tongue twister?",
+                "i'd like to hear a challenging phrase"
+            ],
+            "responses": [
+                "She sells sea shells by the sea shore.",
+                "Peter Piper picked a peck of pickled peppers.",
+                "How can a clam cram in a clean cream can?",
+                "Sally sells seashells down by the seashore.",
+                "Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hair. Fuzzy Wuzzy wasn't very fuzzy, was he?"
+            ]
+        }
+    ]
+}

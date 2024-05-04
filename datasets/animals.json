@@ -1,0 +1,55 @@
+{"intents": 
+    [
+        {
+            "tag": "cat_inquiry",
+            "patterns": [
+                "tell me about cats",
+                "what are cats?",
+                "i want to learn about cats",
+                "can you give me information about cats?"
+            ],
+            "responses": [
+                "Cats are small, carnivorous mammals that are often kept as pets.",
+                "Sure! Cats are known for their agility, grace, and independent nature.",
+                "Cats are domesticated animals that have been companions to humans for thousands of years.",
+                "Cats come in various breeds, each with its own unique characteristics and personalities."
+            ]
+        },
+        {
+            "tag": "cat_appearance",
+            "patterns": [
+                "what do cats look like?",
+                "describe a cat's appearance",
+                "can you give me information about cats?"
+            ],
+            "responses": [
+                "Cats typically have soft fur, sharp claws, and a long tail. They come in various colors and patterns, with unique features such as pointed ears and whiskers."
+            ]
+        },
+        {
+            "tag": "cat_behavior",
+            "patterns": [
+                "how do cats behave?",
+                "tell me about cat behavior",
+                "what are common behaviors of cats?"
+            ],
+            "responses": [
+                "Cats are known for their independent nature and agility. They exhibit behaviors such as hunting, grooming, and marking territory through scent."
+            ]
+        },
+        {
+            "tag": "cat_breeds",
+            "patterns": [
+                "what are some cat breeds?",
+                "can you list cat breeds?",
+                "tell me about different types of cats"
+            ],
+            "responses": [
+                "There are many cat breeds, including Siamese, Maine Coon, Persian, Bengal, and Sphynx. Each breed has its own unique characteristics and appearance."
+            ]
+        }
+        
+        
+        
+]
+}

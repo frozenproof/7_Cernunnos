@@ -1,0 +1,39 @@
+{"intents": 
+    [
+        {
+            "tag": "cook_egg",
+            "patterns": [
+                "how do I cook an egg?",
+                "can you give me instructions for cooking an egg?",
+                "tell me how to prepare an egg"
+            ],
+            "responses": [
+                "To cook a basic fried egg, follow these steps:\n1. Heat a non-stick skillet over medium heat and add a small amount of butter or oil.\n2. Crack an egg into the skillet, taking care not to break the yolk.\n3. Season with salt and pepper to taste.\n4. Cook the egg for about 2-3 minutes until the whites are set but the yolk is still runny, or longer if you prefer a firmer yolk.\n5. Carefully slide a spatula under the egg and flip it over if desired, cooking for an additional 1-2 minutes.\n6. Remove the egg from the skillet and serve immediately. Enjoy your perfectly cooked egg!"
+            ]
+        },
+        {
+            "tag": "cook_egg",
+            "patterns": [
+                "how do I cook an egg?",
+                "can you give me instructions for cooking an egg?",
+                "tell me how to prepare an egg"
+            ],
+            "responses": [
+                "To cook a fried egg:\n1. Heat a skillet with butter.\n2. Crack egg into skillet.\n3. Season with salt and pepper.\n4. Cook until whites are set.\n5. Flip if desired.\n6. Serve and enjoy!"
+            ]
+        },
+        {
+            "tag": "simple_recipe",
+            "patterns": [
+                "give me a simple recipe",
+                "can you share an easy recipe?",
+                "i'd like to hear a quick recipe"
+            ],
+            "responses": [
+                "Try this simple pasta recipe:\n1. Boil water in a pot and add salt.\n2. Add pasta and cook until al dente.\n3. In a skillet, heat olive oil and garlic.\n4. Add cherry tomatoes and cook until softened.\n5. Toss cooked pasta with tomatoes.\n6. Season with salt, pepper, and fresh basil.\n7. Serve with grated Parmesan cheese. Enjoy your homemade pasta dish!"
+            ]
+        }
+        
+        
+    ]
+}

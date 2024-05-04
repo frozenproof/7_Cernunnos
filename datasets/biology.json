@@ -1,0 +1,15 @@
+{"intents": 
+    [
+        {
+            "tag": "biology_sciences",
+            "patterns": [
+                "tell me about biology sciences",
+                "what are the branches of biology?",
+                "can you explain key concepts in biology?"
+            ],
+            "responses": [
+                "Biology sciences encompass the study of living organisms and their interactions with the environment. Key branches of biology include: \n1. Molecular biology: Study of biological molecules and their interactions within cells. \n2. Genetics: Study of genes, heredity, and genetic variation. \n3. Ecology: Study of the relationships between organisms and their environment. \n4. Physiology: Study of the functions and mechanisms of living organisms. \n5. Evolutionary biology: Study of the processes that lead to the diversity and adaptation of life forms over time. \nThese branches of biology explore a wide range of topics, from the structure and function of cells to the dynamics of ecosystems, providing insights into the complexity and diversity of life on Earth."
+            ]
+        }
+    ]
+}

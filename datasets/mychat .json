@@ -1,0 +1,18 @@
+{"intents": [
+      {
+            "tag": "what caused intersex disease ?",
+            "patterns": [
+                "what caused intersex disease ?",
+                "what caused futanari condition",
+                "what caused intersex condition"
+            ],
+            "responses": [
+                "Intersex is not a disease; it's a term used to describe a variety of conditions in which a person is born with reproductive or sexual anatomy that doesn't fit typical definitions of male or female. Intersex variations can occur due to a combination of genetic, hormonal, and environmental factors during fetal development.",
+                "Genetic Factors: Intersex variations can be caused by genetic factors, such as differences in sex chromosomes (e.g., variations in the number or structure of X and Y chromosomes). For example, individuals with Androgen Insensitivity Syndrome (AIS) have a genetic mutation that prevents their bodies from responding to androgens (male hormones), leading to variations in sexual development.",
+                "Hormonal Factors: Hormones play a crucial role in sexual differentiation during fetal development. Variations in hormone levels or sensitivity to hormones can result in intersex variations. For example, Congenital Adrenal Hyperplasia (CAH) is a condition where the adrenal glands produce excess androgens, leading to virilization (masculinization) of the external genitalia in individuals assigned female at birth.",
+                "Developmental Factors: Intersex variations can also occur due to disruptions in the normal process of sexual differentiation during fetal development. This can result from factors such as exposure to certain medications, toxins, or hormonal imbalances in the womb.",
+                "Unknown Factors: In some cases, the exact cause of intersex variations may not be known or may involve complex interactions between genetic, hormonal, and environmental factors."
+            ]
+      }
+]
+}

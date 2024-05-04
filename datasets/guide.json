@@ -1,0 +1,45 @@
+{"intents": [
+      {
+            "tag": "guide",
+            "patterns": [
+                "tell me how to use this app ?",
+                "what can this app do ?",
+                "what can i do with this app ?",
+                "i need the App guide ?",
+                "i need the user manual",
+                "i need help"
+            ],
+            "responses": [
+                "Please specify the exact issue if you need more help",
+                "This app is similar to Discord app , with little me as your guide bot",
+                "This app has a guide page if you need it"
+            ]
+      },
+      {
+            "tag": "send message",
+            "patterns": [
+                "i need to send a message",
+                "i want to send a message",
+                "How do i send a message ?",
+                "Where is the message input ?"
+            ],
+            "responses": [
+                "Find the big white gray box, or the gray box in general",
+                "Well, i would say you need to read the guide , but just enter a channel and find a box",
+                "Have you checked if you entered an channel ?"
+            ]
+      },
+      {
+        "tag": "inquiry",
+        "patterns": [
+            "what can you do?",
+            "what is your function?"
+        ],
+        "responses": [
+            "i'm here to help!",
+            "i can assist you with a variety of tasks. Just let me know what you need!"
+        ]
+    }
+    
+]
+}

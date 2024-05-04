@@ -1,0 +1,2 @@
+model_checkpoint_path: "ckpt_val_loss0.03913"
+all_model_checkpoint_paths: "ckpt_val_loss0.03913"

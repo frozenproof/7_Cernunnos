@@ -1,0 +1,78 @@
+{    
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "hi",
+                "how are you",
+                "is anyone there?",
+                "hello",
+                "good day",
+                "hi there",
+                "hola",
+                "hello there",
+                "hya",
+                "hya there",
+                "Konichiwa"
+            ],
+            "responses": [
+                "hello, thanks for visiting",
+                "good to see you again",
+                "hi there, how can I help?",
+                "hi human, please tell me intentions",
+                "hello human, please tell me intentions",
+                "hola human, please tell me intentions"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "bye",
+                "see you later",
+                "goodbye"
+            ],
+            "responses": [
+                "See you later, thanks for visiting",
+                "Have a nice day",
+                "Bye! Come back again soon."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "thanks",
+                "thank",
+                "thank you",
+                "that's helpful"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure"
+            ]
+        },
+        {
+            "tag": "asking health",
+            "patterns": [
+                "how are you?",
+                "how are you",
+                "how are you",
+                "hi how are you?",
+                "hello how are you?",
+                "hola how are you?",
+                "how are you doing?",
+                "hope you are doing well?",
+                "hello hope you are doing well?"
+            ],
+            "responses": [
+                "Hello, I am great, how are you? Please tell me intentions",
+                "Hello, how are you? I am great thanks! Please tell me intentions",
+                "Hello, I am good thank you, how are you? Please tell me intentions",
+                "Hi, I am great, how are you? Please tell me intentions",
+                "Hi, how are you? I am great thanks! Please tell me intentions",
+                "Hi, I am good thank you, how are you? Please tell me intentions"
+            ]
+        }
+]
+}

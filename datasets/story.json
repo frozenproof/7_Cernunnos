@@ -1,0 +1,97 @@
+{"intents": 
+    [
+        {
+            "tag": "short_story",
+            "patterns": [
+                "tell me a short story",
+                "can you share a brief tale?",
+                "id like to hear a quick story"
+            ],
+            "responses": [
+                "Once upon a time, in a faraway land, a small mouse befriended a lonely elephant. Together, they discovered the true meaning of friendship."
+            ]
+        },
+        {
+            "tag": "romance_story",
+            "patterns": [
+                "tell me a romance story",
+                "can you share a love tale?",
+                "id like to hear a romantic story"
+            ],
+            "responses": [
+                "In a quaint bookstore, two strangers reached for the same book. Their hands touched, sparking an instant connection. They exchanged shy smiles, and their eyes met with a hint of curiosity and excitement. As they talked, they discovered a shared passion for literature, exchanging favorite books and authors. With every conversation, their bond grew stronger, fueled by laughter and heartfelt discussions. Over time, their visits to the bookstore turned into cherished dates, filled with whispered confessions and stolen glances. Eventually, they couldn't deny the growing affection between them. On a rainy afternoon, amidst the scent of old books and the soft glow of the bookstore's lamps, they shared their first kiss, sealing their love in a moment of pure magic. From that day forward, they embarked on a journey together, navigating life's ups and downs hand in hand, their love story written in the pages of their hearts.",
+                "In a quaint cafe, Lily spilled coffee on Max's shirt. Their eyes met, sparking an instant connection. They laughed, exchanged numbers, and soon, coffee dates turned into late-night conversations. With every shared smile and stolen glance, their bond grew stronger. As seasons changed, so did their love, blossoming into something beautiful and timeless. Hand in hand, they walked into the sunset, knowing they had found home in each other's hearts."
+            ]
+        },
+        {
+            "tag": "funny_joke",
+            "patterns": [
+                "tell me a joke",
+                "can you share a funny joke?",
+                "id like to hear something funny"
+            ],
+            "responses": [
+                "I met a Dutch girl with inflatable shoes last week, phoned her up to arrange a date but unfortunately she'd popped her clogs.  ",
+                "So I said 'Do you want a game of Darts?' He said, 'OK then', I said nearest to bull starts'. He said, 'Baa', I said, 'Moo', he said, You're closest'.  ",
+                "The other day I sent my girlfriend a huge pile of snow. I rang her up; I said 'Did you get my drift?'  ",
+                "So I went down the local supermarket, I said, 'I want to make a complaint, this vinegar's got lumps in it', he said, 'Those are pickled onions'.  ",
+                "I saw this bloke chatting up a cheetah; I thought, 'He's trying to pull a fast one'.  ",
+                "So I said to this train driver 'I want to go to Paris'. He said 'Eurostar?' I said, 'I've been on telly but I'm no Dean Martin'.  ",
+                "I said to the Gym instructor 'Can you teach me to do the splits?' He said, 'How flexible are you?' I said, 'I can't make Tuesdays'.  ",
+                "But I'll tell you what I love doing more than anything: trying to pack myself in a small suitcase. I can hardly contain myself.  ",
+                "I went to the Chinese restaurant and this duck came up to me with a red rose and says 'Your eyes sparkle like diamonds'. I said, 'Waiter, I asked for a-ROMATIC duck'.  ",
+                "So this bloke says to me, 'Can I come in your house and talk about your carpets?' I thought, 'That's all I need, a Je-hoover's witness'.  ",
+                "I rang up British Telecom, I said, 'I want to report a nuisance caller', he said 'Not you again'.  ",
+                "I was having dinner with a world chess champion and there was a check tablecloth. It took him two hours to pass me the salt.  ",
+                "He said, 'You remind me of a pepper-pot', I said 'I'll take that as a condiment'.  ",
+                "I was in the supermarket and I saw this man and woman wrapped in a barcode. I said, 'Are you two an item?'  ",
+                "A lorry-load of tortoises crashed into a trainload of terrapins, I thought, 'That's a turtle disaster'.  ",
+                "Four fonts walk into a bar the barman says 'Oi - get out! We don't want your type in here'  ",
+                "A three-legged dog walks into a saloon in the Old West. He slides up to the bar and announces: 'I'm looking for the man who shot my paw.'  ",
+                "Two antennas meet on a roof, fall in love and get married. The ceremony wasn't much, but the reception was excellent.",
+                "Two hydrogen atoms walk into a bar. One says, 'I've lost my electron.' The other says, 'Are you sure?' The first replies, 'Yes, I'm positive...'",
+                "A jumper cable walks into a bar. The bartender says,  'I'll serve you but don't start anything.'",
+                "A sandwich walks into a bar. The bartender  says, 'Sorry we don't serve food in here.'",
+                "A man walks into a bar with a slab of asphalt under his arm and says: 'A beer please, and one for the road.'",
+                "Two cannibals are eating a clown. One says to  the other: 'Does this taste funny to you?'",
+                "'Doc, I can't stop singing 'The Green, Green Grass of Home.'' 'That sounds like Tom Jones Syndrome.' 'Is it common?' 'It's Not Unusual.'",
+                "Two cows standing next to each other in a field. Daisy says to Dolly, 'I was artificially inseminated this morning.' 'I don't believe you', said Dolly. 'It's true, no bull!' exclaimed Daisy.",
+                "An invisible man marries an invisible woman. The kids were nothing to look at either.",
+                "I went to buy some camouflage trousers the other day but I couldn't find any.",
+                "I went to the butcher's the other day to bet him 50 bucks that he couldn't reach the meat off the top shelf. He said, 'No, the steaks are too high.'",
+                "I went to a seafood disco last week and pulled a mussel.",
+                "A man goes into a bar and says, 'Can I have a bottle of less?' 'What's that?', asks the barman, 'Is it the name of a beer?' 'I don't know', replies the man, 'but my doctor says I have to drink it.'",
+                "A man returns from an exotic holiday and is feeling very ill. He goes to see his doctor, and is immediately rushed to the hospital to undergo some tests. The man wakes up after the tests in a private room at the hospital, and the phone by his bed rings. 'This is your doctor. We have the results back from your tests and we have found you have an extremely nasty disease called M.A.D.S. It's a combination of Measles, AIDS, Diphtheria, and Shingles!'  'Oh my gosh', cried the man, 'What are you going to do, doctor?'  'Well we're going to put you on a diet of pizzas, pancakes, and pita bread.' replied the doctor.  'Will that cure me?' asked the man.  The doctor replied, 'Well no, but, it's the only food we can slide under the door.'",
+                "A man strolls into a lingerie shop and asks the assistant: 'Do you have a see-through negligee, size 46-48-52?' The assistant looks bewildered. 'What the heck would you want to see through that for?'!",
+                "Did you hear about the Buddhist who refused the offer of Novocain during his root canal work? He wanted to transcend dental medication.",
+                "Pete goes for a job on a building site as an odd-job man. The foreman asks him what he can do. 'I can do anything' says Pete. 'Can you make tea?' asks the foreman. 'Sure, yes', replies Pete. 'I can make a great cup of tea.' 'Can you drive a forklift?' asks the foreman, 'Good grief!' replies Pete. 'How big is the teapot?'",
+                "Stevie Wonder got a cheese grater for his birthday. He said it was the most violent book he'd ever read.",
+                "A man is stopped by an angry neighbour. 'I'd just left the house this morning to collect my newspaper when that evil Doberman of yours went for me!' 'I'm astounded', said the dog's owner. 'I've been feeding that fleabag for seven years and it's never got the paper for me.'",
+                "A man visits his doctor: 'Doc, I think I'm losing it', he says',I'm forever dreaming I wrote Lord Of The Rings.' 'Hmm. One moment', replies the doctor, consulting his medical book. 'Ah yes, now I see... you've been Tolkien in your sleep.'",
+                "A police officer on a motorcycle pulls alongside a man driving around the M25 in an open-topped sports car and flags him down. The policeman solemnly approaches the car. 'Sir, I'm sorry to tell you your wife fell out a mile back', he says. 'Oh, thank goodness', the man replies. 'I thought I was going deaf.'",
+                "Two men walking their dogs pass each other in a graveyard. The first man says to the second, 'Morning.' 'No', says the second man. 'Just walking the dog.'",
+                "A brain went into a bar and said, 'Can I have a pint of lager please, mate?' 'No way', said the barman. 'You're already out of your head.'",
+                "A man walks into a surgery. 'Doctor!' he cries. 'I think I'm shrinking!' 'I'm sorry sir, there are no appointments at the moment', says the physician. 'You'll just have to be a little patient.'",
+                "Why don't scientists trust atoms? Because they make up everything!",
+                "Why don't skeletons fight each other? They don't have the guts!",
+                "Why did the scarecrow win an award? Because he was outstanding in his field!"
+            ]
+        },
+        {
+            "tag": "gender_bender_story",
+            "patterns": [
+                "tell me a gender bender story",
+                "can you share a story about gender transformation?",
+                "id like to hear a gender bender tale"
+            ],
+            "responses": [
+                "In a magical realm, a young prince and princess stumbled upon a mysterious artifact. When they touched it, they swapped bodies, experiencing life from each other's perspective. Through their journey to reclaim their true forms, they learned empathy, understanding, and the true meaning of identity and love.",
+                "Once in a quaint town, there lived two best friends, Alex and Sam. One day, they stumbled upon an ancient amulet in the forest. Curious, they both touched it, and in a flash of light, their bodies swapped. Shocked and confused, they tried to understand what happened. As they ventured back to town, they faced the challenges of living in each other's bodies.\nAlex, now in Sam's body, experienced the world through different eyes. They struggled with tasks they once found easy and faced prejudice and stereotypes. Meanwhile, Sam, in Alex's body, navigated a new perspective. They discovered the pressures and expectations placed on Alex and gained empathy for their friend's struggles.\nAs they tried to find a way to reverse the transformation, Alex and Sam's bond grew stronger. They supported each other through the ups and downs, learning valuable lessons about identity, empathy, and acceptance. Along the way, they encountered friends and family who helped them on their journey.\nEventually, after many trials and adventures, they found a way to return to their original bodies. But the experience had changed them forever. Alex and Sam emerged with a deeper understanding of themselves and each other. They embraced their differences and vowed to always stand by each other's side.\nIn the end, the gender bender experience had transformed not just their bodies, but also their hearts and minds. Alex and Sam's friendship blossomed into something even more profound—a bond built on empathy, acceptance, and unconditional love. And as they walked hand in hand into the sunset, they knew that no matter what challenges lay ahead, they would always face them together.",
+                "In the bustling city of Metropolis, two colleagues, Jamie and Taylor, found themselves entangled in an unexpected twist of fate. While working late one evening on a top-secret project, they accidentally activated a mysterious device. In an instant, their bodies switched, leaving Jamie in Taylor's sleek business suit and Taylor in Jamie's casual attire.\nPanicked and bewildered, they quickly realized the extent of their predicament. Jamie, now in Taylor's body, struggled to navigate the corporate world, facing high-pressure meetings and tight deadlines. Meanwhile, Taylor, in Jamie's body, grappled with the challenges of a laid-back lifestyle, juggling freelance gigs and spontaneous adventures.As they tried to unravel the mystery behind the device, Jamie and Taylor encountered various obstacles and comedic mishaps. From awkward encounters with colleagues to hilarious misunderstandings with friends, their journey was filled with laughter, chaos, and self-discovery.\nDespite their initial frustrations, Jamie and Taylor soon realized the silver lining in their situation. Through their swapped identities, they gained a newfound appreciation for each other's strengths and weaknesses. They forged a deeper connection as they supported and encouraged each other through the ups and downs of their surreal experience.\nAlong the way, they uncovered clues leading to the device's origins and a possible solution to reverse the switch. But as they delved deeper into the mystery, they began to question whether returning to their original bodies was truly what they wanted.\nIn the end, Jamie and Taylor made a bold decision to embrace their new identities and forge a path forward together. With their unique perspectives and complementary skills, they embarked on a journey to redefine success, friendship, and the true meaning of identity in the modern world.\nAs they walked side by side through the bustling streets of Metropolis, Jamie and Taylor knew that no matter what challenges lay ahead, they had each other—and that was all they needed to conquer the unknown."
+            ]
+        }
+        
+        
+        
+    ]
+}

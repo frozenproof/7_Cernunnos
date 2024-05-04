@@ -1,0 +1,37 @@
+{"intents": 
+    [
+        {
+            "tag": "human_anatomy",
+            "patterns": [
+                "what is human anatomy?",
+                "can you describe human anatomy?",
+                "tell me about the structure of the human body"
+            ],
+            "responses": [
+                "Human anatomy refers to the study of the structure of the human body. It includes organs, tissues, bones, muscles, and other components that make up the human organism."
+            ]
+        },
+        {
+            "tag": "fallback",
+            "patterns": [],
+            "responses": [
+                "I'm sorry, I don't understand that. Could you please try asking in a different way or provide more context?",
+                "I'm sorry, I don't understand that. Maybe providing more context?"
+
+            ]
+        },
+        {
+            "tag": "fallback",
+            "patterns": [
+                "I'm sorry, I don't understand.",
+                "Can you rephrase that?",
+                "I'm not sure what you mean."
+            ],
+            "responses": [
+                "I'm sorry, I'm not able to provide a response to that. Could you please try asking in a different way?"
+            ]
+        }
+        
+        
+    ]
+}
