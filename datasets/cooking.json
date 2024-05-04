@@ -32,7 +32,32 @@
             "responses": [
                 "Try this simple pasta recipe:\n1. Boil water in a pot and add salt.\n2. Add pasta and cook until al dente.\n3. In a skillet, heat olive oil and garlic.\n4. Add cherry tomatoes and cook until softened.\n5. Toss cooked pasta with tomatoes.\n6. Season with salt, pepper, and fresh basil.\n7. Serve with grated Parmesan cheese. Enjoy your homemade pasta dish!"
             ]
+        },
+        {
+            "tag": "pudding",
+            "patterns": [
+                "what is pudding?",
+                "can you define pudding?",
+                "i'd like to learn about pudding"
+            ],
+            "responses": [
+                "Pudding is a type of dessert characterized by its creamy and soft texture. It is typically made by combining ingredients such as milk, sugar, and flavorings with a thickening agent, then cooking the mixture until it thickens and sets into a smooth consistency. Pudding can vary widely in its ingredients, flavors, and preparation methods across different cultures, with popular variations including rice pudding, bread pudding, chocolate pudding, and custard pudding."
+            ]
+        },
+        {
+            "tag": "cooking",
+            "patterns": [
+                "what is cooking?",
+                "can you define cooking?",
+                "i'd like to learn about cooking"
+            ],
+            "responses": [
+                "Cooking is the process of preparing food for consumption by applying heat or other methods to ingredients. It involves a combination of techniques such as chopping, slicing, mixing, and simmering to transform raw ingredients into delicious meals. Cooking can take place in various settings, including homes, restaurants, and professional kitchens, and it encompasses a wide range of cuisines, flavors, and cultural traditions. Whether it's following a recipe or experimenting with ingredients, cooking allows individuals to express their creativity, share nourishing meals with others, and enjoy the sensory pleasures of food.",
+                "Cooking is the act of preparing food by heating or combining ingredients to make meals. It involves tasks like cutting, mixing, and cooking ingredients to create dishes for eating."
+            ]
         }
+        
+        
         
         
     ]

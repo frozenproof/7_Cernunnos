@@ -47,7 +47,19 @@
             "responses": [
                 "There are many cat breeds, including Siamese, Maine Coon, Persian, Bengal, and Sphynx. Each breed has its own unique characteristics and appearance."
             ]
+        },
+        {
+            "tag": "magical_cat",
+            "patterns": [
+                "what is a small magical cat?",
+                "can you define a small magical cat?",
+                "i'd like to learn about small magical cats"
+            ],
+            "responses": [
+                "A small magical cat is a mystical feline creature with enchanting powers and extraordinary abilities. Despite its diminutive size, this magical cat possesses a vast array of magical talents, including the ability to cast spells, manipulate elements, and communicate with otherworldly beings. Its fur may shimmer with iridescent hues, and its eyes may glow with an otherworldly light. Small magical cats are often depicted as playful and mischievous companions, bringing luck and fortune to those who befriend them. Legends tell of small magical cats guiding lost travelers, granting wishes, and protecting their owners from harm with their mystical prowess."
+            ]
         }
+        
         
         
         

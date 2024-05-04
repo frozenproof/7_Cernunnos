@@ -1,11 +1,11 @@
 import json
 import os
 
-data_root='data'
-dataset_root='datasets'
+data_root = 'data'
+dataset_root = 'datasets'
 
-# Initialize an empty list to store combined intent arrays
-combined_intents = []
+# Initialize an empty dictionary to store combined intents
+combined_intents = {}
 
 # Iterate through each file in the folder
 for filename in os.listdir(dataset_root):
@@ -14,10 +14,22 @@ for filename in os.listdir(dataset_root):
         with open(os.path.join(dataset_root, filename), 'r') as file:
             data = json.load(file)
         
-        # Append the intents to the combined list
-        combined_intents.extend(data['intents'])
+        # Iterate through intents in the current file
+        for intent in data['intents']:
+            tag = intent['tag']
+            # Check if tag already exists in combined data
+            if tag in combined_intents:
+                # If tag exists, merge contents
+                existing_intent = combined_intents[tag]
+                existing_intent['patterns'].extend(intent['patterns'])
+                existing_intent['responses'].extend(intent['responses'])
+            else:
+                # If tag doesn't exist, add it to combined data
+                combined_intents[tag] = intent
+
+# Convert dictionary values to a list
+combined_data = {'intents': list(combined_intents.values())}
 
 # Write the combined intents to a new JSON file
-combined_data = {'intents': combined_intents}
-with open(data_root+'/combined.json', 'w') as combined_file:
+with open(os.path.join(data_root, 'combined.json'), 'w') as combined_file:
     json.dump(combined_data, combined_file, indent=4)

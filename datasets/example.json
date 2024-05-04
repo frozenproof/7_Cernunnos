@@ -13,25 +13,24 @@
         },
         {
             "tag": "fallback",
-            "patterns": [],
+            "patterns": [""],
             "responses": [
                 "I'm sorry, I don't understand that. Could you please try asking in a different way or provide more context?",
-                "I'm sorry, I don't understand that. Maybe providing more context?"
-
+                "I'm sorry, I don't understand that. Maybe providing more context?",
+                "I'm sorry, I'm not able to provide a response to that. Could you please try asking in a different way?"
             ]
         },
         {
             "tag": "fallback",
             "patterns": [
-                "I'm sorry, I don't understand.",
-                "Can you rephrase that?",
-                "I'm not sure what you mean."
+                "i'm sorry, I don't understand.",
+                "can you rephrase that?",
+                "i'm not sure what you mean."
             ],
             "responses": [
                 "I'm sorry, I'm not able to provide a response to that. Could you please try asking in a different way?"
             ]
         }
-        
-        
+                
     ]
 }

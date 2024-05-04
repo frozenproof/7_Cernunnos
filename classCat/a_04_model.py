@@ -37,15 +37,7 @@ class MyClassModel(Model):
         # Set built flag to True
         self.built = True
 
-    def custom_predict(model, data):
-        # Assuming data is a single sample or a batch of samples
-        # Convert data to numpy array if it's not already
-        data = np.array(data)
-        # Make predictions using the model
-        predictions = model.predict(data)
-        # Return predictions
-        return predictions
-    
+
 class BackupModelCheckpoint(tf.keras.callbacks.ModelCheckpoint):
     def __init__(self, *args, backup_frequency=5, monitor='val_loss', mode='min', **kwargs):
         """

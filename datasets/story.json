@@ -89,7 +89,31 @@
                 "Once in a quaint town, there lived two best friends, Alex and Sam. One day, they stumbled upon an ancient amulet in the forest. Curious, they both touched it, and in a flash of light, their bodies swapped. Shocked and confused, they tried to understand what happened. As they ventured back to town, they faced the challenges of living in each other's bodies.\nAlex, now in Sam's body, experienced the world through different eyes. They struggled with tasks they once found easy and faced prejudice and stereotypes. Meanwhile, Sam, in Alex's body, navigated a new perspective. They discovered the pressures and expectations placed on Alex and gained empathy for their friend's struggles.\nAs they tried to find a way to reverse the transformation, Alex and Sam's bond grew stronger. They supported each other through the ups and downs, learning valuable lessons about identity, empathy, and acceptance. Along the way, they encountered friends and family who helped them on their journey.\nEventually, after many trials and adventures, they found a way to return to their original bodies. But the experience had changed them forever. Alex and Sam emerged with a deeper understanding of themselves and each other. They embraced their differences and vowed to always stand by each other's side.\nIn the end, the gender bender experience had transformed not just their bodies, but also their hearts and minds. Alex and Sam's friendship blossomed into something even more profound—a bond built on empathy, acceptance, and unconditional love. And as they walked hand in hand into the sunset, they knew that no matter what challenges lay ahead, they would always face them together.",
                 "In the bustling city of Metropolis, two colleagues, Jamie and Taylor, found themselves entangled in an unexpected twist of fate. While working late one evening on a top-secret project, they accidentally activated a mysterious device. In an instant, their bodies switched, leaving Jamie in Taylor's sleek business suit and Taylor in Jamie's casual attire.\nPanicked and bewildered, they quickly realized the extent of their predicament. Jamie, now in Taylor's body, struggled to navigate the corporate world, facing high-pressure meetings and tight deadlines. Meanwhile, Taylor, in Jamie's body, grappled with the challenges of a laid-back lifestyle, juggling freelance gigs and spontaneous adventures.As they tried to unravel the mystery behind the device, Jamie and Taylor encountered various obstacles and comedic mishaps. From awkward encounters with colleagues to hilarious misunderstandings with friends, their journey was filled with laughter, chaos, and self-discovery.\nDespite their initial frustrations, Jamie and Taylor soon realized the silver lining in their situation. Through their swapped identities, they gained a newfound appreciation for each other's strengths and weaknesses. They forged a deeper connection as they supported and encouraged each other through the ups and downs of their surreal experience.\nAlong the way, they uncovered clues leading to the device's origins and a possible solution to reverse the switch. But as they delved deeper into the mystery, they began to question whether returning to their original bodies was truly what they wanted.\nIn the end, Jamie and Taylor made a bold decision to embrace their new identities and forge a path forward together. With their unique perspectives and complementary skills, they embarked on a journey to redefine success, friendship, and the true meaning of identity in the modern world.\nAs they walked side by side through the bustling streets of Metropolis, Jamie and Taylor knew that no matter what challenges lay ahead, they had each other—and that was all they needed to conquer the unknown."
             ]
+        },
+        {
+            "tag": "scary_story",
+            "patterns": [
+                "Tell me a scary story",
+                "Can you share a frightening tale?",
+                "I'd like to hear something spooky"
+            ],
+            "responses": [
+                "In the abandoned house on Elm Street, locals whispered of a dark presence. Legend had it that a family once lived there, but they vanished without a trace. Those brave enough to enter reported strange noises, flickering lights, and shadowy figures lurking in the corners. One by one, they too disappeared, never to be seen again. Some say the spirits of the lost family still haunt the house, waiting to claim their next victim..."
+            ]
+        },
+        {
+            "tag": "story",
+            "patterns": [
+                "Tell me a story",
+                "Can you share a story?",
+                "I'd like to hear a tale"
+            ],
+            "responses": [
+                "Once upon a time, in a faraway kingdom, there lived a brave young knight named Arthur. He embarked on a quest to rescue the kingdom's princess, who had been captured by an evil sorcerer. Along the way, Arthur faced many challenges, including fierce dragons, treacherous forests, and dark magic. With courage and determination, he overcame each obstacle, earning the trust and friendship of allies he met on his journey. Finally, Arthur reached the sorcerer's castle, where a fierce battle ensued. In the end, with a swift stroke of his sword, Arthur defeated the sorcerer and rescued the princess, restoring peace and happiness to the kingdom. And so, Arthur returned home as a hero, celebrated by all for his bravery and valor."
+            ]
         }
+        
+        
         
         
         

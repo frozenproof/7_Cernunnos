@@ -87,7 +87,81 @@
             "responses": [
                 "Human genders include:\n1. Male: Typically associated with individuals who have XY chromosomes and male reproductive anatomy.\n2. Female: Typically associated with individuals who have XX chromosomes and female reproductive anatomy.\n3. Non-binary: Refers to individuals whose gender identity falls outside the traditional binary of male and female.\n4. Genderqueer: Refers to individuals who reject traditional gender distinctions and identify as neither exclusively male nor exclusively female.\n5. Genderfluid: Refers to individuals whose gender identity may change or vary over time.\n6. Transgender: Refers to individuals whose gender identity differs from the sex assigned to them at birth.\nThese are just a few examples, and gender identity is diverse and can vary widely among individuals."
             ]
+        },
+        {
+            "tag": "tomboy",
+            "patterns": [
+                "what is a tomboy?",
+                "can you define tomboy?",
+                "i'd like to learn about tomboys"
+            ],
+            "responses": [
+                "A tomboy is a girl who exhibits traits or behaviors typically associated with boys, such as enjoying rough play, wearing masculine clothing, or participating in traditionally male-dominated activities like sports or outdoor adventures. Tomboys often defy gender stereotypes and embrace their own unique identities.",
+                "A tomboy is a term used to describe a girl who demonstrates characteristics or engages in activities that are traditionally considered more typical of boys. These traits may include a preference for rough-and-tumble play, an interest in sports or outdoor activities, and a tendency to dress in clothing perceived as masculine, such as jeans and t-shirts. Tomboys often possess a strong sense of independence, confidence, and resilience, and they may challenge societal expectations of femininity by embracing their own unique identities. It's important to note that the term 'tomboy' is subjective and can vary in its interpretation, but it generally refers to girls who reject conventional gender norms and express themselves authentically."
+            ]
+        },
+        {
+            "tag": "femboy",
+            "patterns": [
+                "what is a femboy?",
+                "can you define femboy?",
+                "i'd like to learn about femboys"
+            ],
+            "responses": [
+                "A femboy is a term used to describe a person, typically a male, who presents themselves in a feminine manner. This may include characteristics such as wearing clothing traditionally associated with females, adopting feminine mannerisms or behaviors, and expressing themselves in ways that challenge traditional gender stereotypes. Femboys often embrace their femininity as a core aspect of their identity and may identify with various gender identities, including but not limited to male, female, or non-binary.",
+                "A femboy is a term used to describe an individual, typically a male, who embraces and expresses femininity in their appearance, behavior, or self-expression. Femboys may choose to present themselves in ways that are traditionally associated with females, such as wearing clothing like dresses or skirts, applying makeup, or adopting feminine mannerisms and gestures. However, it's important to recognize that femboys' expressions of femininity are diverse and personal, and may not conform to societal expectations or norms. Femboys often navigate their gender identity and expression in a way that feels authentic to them, and they may identify with various gender identities, including but not limited to male, female, or non-binary. Overall, femboys challenge rigid gender stereotypes and norms, advocating for self-expression and acceptance of diverse gender identities and expressions."
+            ]
+        },
+        {
+            "tag": "human_behavior",
+            "patterns": [
+                "can you provide examples of human behavior?",
+                "i'd like to learn about common human behaviors",
+                "what are some typical behaviors exhibited by humans?"
+            ],
+            "responses": [
+                "Human behavior encompasses a wide range of actions and reactions that individuals engage in, influenced by biological, psychological, social, and cultural factors. Some examples of common human behaviors include:\n1. Communication: Humans use verbal and nonverbal cues to interact with others, express emotions, and convey information.\n2. Emotions: Humans experience a diverse range of emotions such as happiness, sadness, anger, fear, and love, which influence their thoughts and actions.\n3. Socialization: Humans seek connections with others through social interactions, forming relationships, and participating in group activities.\n4. Learning: Humans acquire knowledge, skills, and behaviors through observation, experience, and education, allowing them to adapt and thrive in different environments.\n5. Problem-solving: Humans employ cognitive processes to identify and solve problems, make decisions, and achieve goals.\n6. Altruism: Humans demonstrate empathy, compassion, and kindness toward others, often engaging in acts of generosity or selflessness.\nThese examples illustrate the complexity and diversity of human behavior, reflecting the intricate interplay between biology, psychology, and social dynamics."
+            ]
+        },
+        {
+            "tag": "consummation",
+            "patterns": [
+                "what is consummation?",
+                "can you define consummation?",
+                "i'd like to learn about consummation"
+            ],
+            "responses": [
+                "Consummation refers to the completion or fulfillment of something, especially a formal or legal process. In a legal context, consummation often refers to the act of completing a marriage by engaging in sexual intercourse, thereby sealing the marital bond. However, consummation can also be used more broadly to describe the completion or achievement of any objective, goal, or transaction."
+            ]
+        },
+        {
+            "tag": "cute_girl",
+            "patterns": [
+                "what is a cute girl?",
+                "can you define a cute girl?",
+                "i'd like to learn about cute girls"
+            ],
+            "responses": [
+                "A cute girl is typically described as charming, endearing, and visually appealing in a youthful or innocent way. She may have features such as a sweet smile, sparkling eyes, and a friendly demeanor that elicits positive feelings from others. However, it's important to remember that beauty is subjective, and what one person finds cute, another may not. Ultimately, a cute girl is someone who radiates positivity and warmth, captivating those around her with her charm and personality."
+            ]
+        },
+        {
+            "tag": "happy_person",
+            "patterns": [
+                "what is a happy person?",
+                "can you define a happy person?",
+                "i'd like to learn about happy people"
+            ],
+            "responses": [
+                "A happy person is someone who experiences positive emotions and contentment in their life. They often exhibit characteristics such as smiling, laughter, optimism, and a sense of fulfillment. A happy person may find joy in simple pleasures, maintain positive relationships, and have a hopeful outlook on the future. While everyone experiences ups and downs, a happy person generally maintains a sense of resilience and gratitude, focusing on the good aspects of life and finding ways to overcome challenges with positivity."
+            ]
         }
+        
+        
+        
+        
+        
+        
         
       
 ]
