@@ -55,7 +55,43 @@
                 "Cooking is the process of preparing food for consumption by applying heat or other methods to ingredients. It involves a combination of techniques such as chopping, slicing, mixing, and simmering to transform raw ingredients into delicious meals. Cooking can take place in various settings, including homes, restaurants, and professional kitchens, and it encompasses a wide range of cuisines, flavors, and cultural traditions. Whether it's following a recipe or experimenting with ingredients, cooking allows individuals to express their creativity, share nourishing meals with others, and enjoy the sensory pleasures of food.",
                 "Cooking is the act of preparing food by heating or combining ingredients to make meals. It involves tasks like cutting, mixing, and cooking ingredients to create dishes for eating."
             ]
+        },
+        {
+            "tag": "cook_fish",
+            "patterns": [
+                "how do I cook a fish?",
+                "can you provide instructions for cooking fish?",
+                "i'd like to learn how to cook a fish"
+            ],
+            "responses": [
+                "To cook a fish, follow these steps:\n1. Start by selecting a fresh fish of your choice, such as salmon, trout, or cod.\n2. Preheat your oven to the desired temperature (usually around 375°F or 190°C) or prepare a grill for cooking.\n3. Rinse the fish under cold water and pat it dry with paper towels.\n4. Season the fish with salt, pepper, and any desired herbs or spices, both inside and out.\n5. If baking, place the fish on a greased baking sheet or in a foil packet. If grilling, place the fish directly on the grill grate.\n6. Cook the fish for about 10 minutes per inch of thickness, or until it flakes easily with a fork and reaches an internal temperature of 145°F (63°C).\n7. Serve the cooked fish hot with your favorite sides, such as steamed vegetables, rice, or salad.\nEnjoy your deliciously cooked fish!"
+            ]
+        },
+        {
+            "tag": "eat_raw_salmon",
+            "patterns": [
+                "how do I eat raw salmon?",
+                "can you provide instructions for eating raw salmon?",
+                "i'd like to learn how to enjoy raw salmon"
+            ],
+            "responses": [
+                "To eat raw salmon, follow these steps:\n1. Start by selecting fresh, high-quality salmon fillets or sushi-grade salmon from a reputable source.\n2. Ensure that the salmon has been properly handled and stored at the correct temperature to minimize the risk of foodborne illness.\n3. Use a sharp knife to slice the salmon fillet thinly against the grain, creating bite-sized pieces.\n4. Arrange the sliced salmon on a clean plate or serving platter.\n5. Optionally, garnish the raw salmon with traditional accompaniments such as pickled ginger, wasabi, and soy sauce.\n6. Use chopsticks or a fork to pick up a piece of raw salmon, and dip it lightly in soy sauce or add a touch of wasabi for extra flavor.\n7. Enjoy the delicate texture and rich flavor of the raw salmon, savoring each bite.\nRemember to consume raw salmon responsibly and be mindful of any potential health risks associated with consuming raw or undercooked seafood."
+            ]
+        },
+        {
+            "tag": "obtain_wasabi",
+            "patterns": [
+                "how do I obtain wasabi?",
+                "can you provide instructions for getting wasabi?",
+                "i'd like to learn how to obtain wasabi"
+            ],
+            "responses": [
+                "To obtain wasabi, follow these steps:\n1. Look for fresh wasabi rhizomes (roots) at specialty grocery stores, Asian markets, or online retailers.\n2. Check the produce section or inquire with staff to see if they carry fresh wasabi.\n3. If fresh wasabi is unavailable, consider purchasing wasabi paste or powder, which are more commonly found in grocery stores and supermarkets.\n4. Wasabi paste or powder is typically made from ground horseradish root and other ingredients, and it can be reconstituted with water to form a paste.\n5. Alternatively, you can grow your own wasabi plant if you have access to suitable growing conditions, such as cool, shaded areas with moist, well-drained soil.\n6. Follow planting and care instructions for wasabi plants to cultivate your own fresh wasabi at home.\nEnjoy the unique flavor and heat of wasabi in your favorite dishes, such as sushi, sashimi, and Japanese-inspired recipes."
+            ]
         }
+        
+        
+        
         
         
         

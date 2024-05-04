@@ -120,7 +120,32 @@
             "responses": [
                 "If someone faints, follow these steps:\n1. Lay the person on their back and elevate their legs.\n2. Loosen tight clothing and ensure proper ventilation.\n3. Check for responsiveness and breathing.\n4. If unconscious and not breathing normally, call emergency services and begin CPR.\n5. Stay with the person until medical help arrives.\n6. Once conscious, offer water and reassurance.\nIt's important to monitor the person's condition and seek medical attention if necessary."
             ]
+        },
+        {
+            "tag": "combat_medic_drugs_placement",
+            "patterns": [
+                "where should combat medics store drugs?",
+                "can you provide guidance on drug placement for combat medics?",
+                "i'd like to learn about storing drugs for combat medics"
+            ],
+            "responses": [
+                "Combat medics typically carry drugs and medical supplies in specialized pouches or compartments within their medic bags or vests. These pouches are strategically placed for easy access during emergencies. Common locations for storing drugs include designated pockets or compartments labeled for specific medications, such as analgesics, antibiotics, anticoagulants, and emergency medications like epinephrine or naloxone. It's essential for combat medics to organize their drug placement according to their medical protocols and ensure that medications are securely stored to prevent damage or loss during combat operations.",
+                "Common locations for storing drugs include designated pockets or compartments that are labeled for specific medications. For example, analgesics (pain relievers), antibiotics, anticoagulants (blood thinners), and emergency medications like epinephrine or naloxone may each have their own designated storage area.\nIt's crucial for combat medics to organize their drug placement according to their medical protocols and ensure that medications are securely stored. This organization helps medics locate the necessary drugs quickly in high-stress situations, allowing them to administer life-saving treatment effectively."
+            ]
+        },
+        {
+            "tag": "save_stabbed_person",
+            "patterns": [
+                "how do I save someone who got stabbed?",
+                "can you provide instructions for helping a stabbing victim?",
+                "i'd like to learn how to assist someone who has been stabbed"
+            ],
+            "responses": [
+                "If someone has been stabbed, follow these steps to help them:\n1. Assess the scene to ensure it's safe for you to approach the victim.\n2. Call emergency services immediately to request medical assistance.\n3. Keep the victim calm and reassure them while you wait for help to arrive.\n4. Do not attempt to remove the object that caused the stab wound. Apply pressure around the wound to control bleeding if possible.\n5. If the object is still in the wound, stabilize it to prevent further injury.\n6. If the victim is unconscious and not breathing normally, begin CPR.\n7. Monitor the victim's condition until medical help arrives, and provide any additional information to emergency responders as needed.\nRemember to prioritize your safety and the safety of the victim at all times."
+            ]
         }
+        
+        
    
     ]
 }

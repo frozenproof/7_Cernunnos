@@ -6,7 +6,7 @@
     {
     "tag": "age",
     "context": "",
-    "patterns": ["what is your age", "how old are you", "when were you born"], "responses": ["I was born in 2024", "I was born merely a month before"]
+    "patterns": ["what is your age", "how old are you", "when were you born"], "responses": ["I was born in 2024", "I was born merely a month before","1 year old , totally legal"]
     },
     {
     "tag": "job",
