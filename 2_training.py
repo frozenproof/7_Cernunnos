@@ -68,9 +68,8 @@ num_classes = len(train_Y[0])
 model = MyClassModel(num_classes)
 
 # Add layers
-model.add_layer(512, activation='relu', input_shape=(len(train_X[0]),))
-model.add_layer(64, activation='relu', dropout_rate=0.5)
-model.add_layer(256, activation='relu', dropout_rate=0.5)
+model.add_layer(1024, activation='relu', input_shape=(len(train_X[0]),))
+model.add_layer(512, activation='relu', dropout_rate=0.5)
 model.add_layer(num_classes, activation='softmax')
 
 # Build the model
